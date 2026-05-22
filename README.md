@@ -27,8 +27,4 @@ To run this notebook, you will need a Python environment with the following pack
 *   `ipython` (for audio playback)
 *   `jupyter` (to run the notebook)
 
-## Getting Started
 
-1. Ensure you have the required dependencies installed.
-2. Open the `filter_design.ipynb` notebook using Jupyter Notebook or JupyterLab.
-3. Run the cells sequentially and follow the tasks and questions provided within the markdown cells.
